@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# User settings - do not commit personal settings
+settings.json
