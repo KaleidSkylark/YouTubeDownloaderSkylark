@@ -15,8 +15,18 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>Main Interface</b></td>
-    <td align="center"><b>Settings Panel</b></td>
+    <td align="center"><b>New Main Interface</b></td>
+    <td align="center"><b>New Settings Panel</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.15752-9/568755799_823898146859578_7616813076553469266_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEGegjzquNSp_7_mgjL2pb8mtnRLyfI4XOa2dEvJ8jhc-NZV7fu3MbwpGk1gRu1-_3UeF2J3RGQOnegbQllWkAQ&_nc_ohc=e0b40ULoByAQ7kNvwHlJnHE&_nc_oc=AdlIZHZlVPxlnZEwahh_3qxxnc7QwK3lJtVS7SS8t8Vdavy2SsxpJPm5peLZoT7TZDf3Md5kgyiZlrMA_XgeUE-W&_nc_zt=23&_nc_ht=scontent.fmnl13-2.fna&oh=03_Q7cD3gENEFsDHnsRepWstFOrT6TYf67OvOwrGVvxTVIQcVKjUg&oe=691DACBB" alt="New Main Application Interface" width="400"></td>
+    <td><img src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t1.15752-9/565339690_25257274160544980_1472623500034003466_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHEW3ATnYybbLGDjFKFiMOskkxqfDAnA0iSTGp8MCcDSBR6y9QdYshzH2ALxiPXYJjoWA7qwz-AUA8KxOJLF4XB&_nc_ohc=MhTDXaoyAsQQ7kNvwHjqk7e&_nc_oc=Adnx4bFxl1MEyzZmx5e9PqDkd0_tt5CRCp_ksVe6QE55jqMVEkl06fqs20a3bnlyHeGzU-RDA8KB_vmfKTHEtbyX&_nc_zt=23&_nc_ht=scontent.fmnl13-1.fna&oh=03_Q7cD3gFOUGrdq9mzgxT5-OwaiyZuwNBhxcN2CKo_JGoQixeRJQ&oe=691DC669" alt="New Settings Panel" width="400"></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center"><b>Old Main Interface</b></td>
+    <td align="center"><b>Old Settings Panel</b></td>
   </tr>
   <tr>
     <td><img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.15752-9/566538909_797779849753637_209001358120840595_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFSOeIKYrrLcZGe6N1aj4esNv7Hns4LusQ2_seezgu6xAy2QDKQ6XfltzeM1rKgZP_xAwqyBEsmtsTVuvf3y68K&_nc_ohc=8N73BapkYHAQ7kNvwEQ2bzm&_nc_oc=Adnfax3S_GCPfONeHxWjuXYCKn8pvMvV9WMEIeQqjRevMuinjrqjGAXDI-X8U8SHl9Y&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&oh=03_Q7cD3gEX8S3M-4cpXHultDKnB7wbUtOCQXzuHYWXp3K0pUjWrQ&oe=691C1A3D" alt="Main Application Interface" width="400"></td>
@@ -42,6 +52,7 @@
     * **Format Selection:** Choose between MP4 video or MP3 audio.
     * **Video Quality:** Select specific video resolutions (1080p, 720p, etc.).
     * **Audio Bitrate:** Set MP3 audio quality (128K, 192K, 256K, 320K) for perfect sound.
+    * **Subtitle Selection:** Set subtitle (EN, RU, JA, FR, etc.).
 * **🚀 Seamless Experience:**
     * **Modern UI:** A clean, rounded, and intuitive graphical interface.
     * **Collapsible Settings:** Keep the main window clutter-free with a hideable settings panel.
